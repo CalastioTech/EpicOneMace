@@ -1,0 +1,24 @@
+name: EpicOneMace
+version: '1.0.0'
+main: com.epicOneMace.EpicOneMace
+api-version: '1.21'
+authors: [ CalastioTech ]
+description: Enforces a strict one-mace-per-server rule
+
+commands:
+  checkmace:
+    description: Check who currently holds the mace
+    usage: /checkmace
+    permission: epiconemace.check
+  resetmace:
+    description: Reset the mace status to allow a new one to be crafted
+    usage: /resetmace
+    permission: epiconemace.reset
+
+permissions:
+  epiconemace.check:
+    description: Allows checking who has the mace
+    default: true
+  epiconemace.reset:
+    description: Allows resetting the mace status
+    default: op

@@ -1,0 +1,7 @@
+# EpicOneMace Configuration
+
+# Whether a mace currently exists on the server
+mace-exists: false
+
+# UUID of the player who owns the mace (if it exists)
+mace-owner: ''

@@ -32,7 +32,7 @@ The plugin works silently in the background with zero configuration needed. It's
 
 ## ⚠️ Why I Made This Plugin
 
-I created EpicOneMace after discovering that several existing one-mace plugins contained suspicious code, with one even including a backdoor that compromised servers. My server ([Celestial Universe](https://discord.gg/yvSakgCmhP)) and several friends' servers (including Haunted SMP) were affected by these malicious plugins.
+I created EpicOneMace after discovering that several existing one-mace plugins contained suspicious code, with one even including a backdoor that compromised servers. My server [Celestial Universe](https://discord.gg/yvSakgCmhP) and several friends' servers (including Haunted SMP) were affected by these malicious plugins.
 
 Specifically, a plugin on [Modrinth](https://modrinth.com/plugin/onemace) created by a user named "ftpman" (Discord: "tim cheese") contained code that gave unauthorized access to servers. If you've installed this plugin, I strongly recommend removing it immediately and checking your server for any suspicious activity.
 

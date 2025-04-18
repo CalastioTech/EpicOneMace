@@ -65,3 +65,9 @@ Always be cautious when installing plugins from unknown sources. Take care of yo
 ---
 
 *EpicOneMace - Simple, Secure, Straightforward*
+
+## ☕ Support Me on Ko-fi
+
+If you like my work, consider buying me a coffee:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/calastiotech)

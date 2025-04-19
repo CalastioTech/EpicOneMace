@@ -70,4 +70,4 @@ Always be cautious when installing plugins from unknown sources. Take care of yo
 
 If you like my work, consider buying me a coffee:
 
-[![Support me on Ko-fi](https://img.shields.io/badge/Ko--fi-Donate-blue?logo=ko-fi&logoColor=white)](https://ko-fi.com/YOUR_USERNAME)
+[![Support me on Ko-fi](https://img.shields.io/badge/Ko--fi-Donate-blue?logo=ko-fi&logoColor=white)](https://ko-fi.com/calastiotech)

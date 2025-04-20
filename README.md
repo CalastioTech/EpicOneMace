@@ -1,3 +1,5 @@
+### Update: the hacker isn't the one on modrinth. he's proabably somone who the virus jumpped into his plugin too and the hacker has been taken down by spigot
+
 # 📖 EpicOneMace - The Safe One Mace Plugin
 
 Hey there, Minecraft enthusiasts! Welcome to **EpicOneMace** - a simple, secure plugin that enforces a strict one-mace-per-server rule. No backdoors, no sketchy code, just pure functionality! 🎮✨
